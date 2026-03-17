@@ -409,7 +409,7 @@ async function loadProductDetails() {
               להזמנה בוואטסאפ
             </a>
 
-            <a href="tel:${phoneNumber}" class="btn btn-outline">
+            <a href="tel:${phoneNumber}" class="btn btn-outline mobile-only">
               התקשרו עכשיו
             </a>
 
